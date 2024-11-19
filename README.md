@@ -2,7 +2,6 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...TI 
 - 📫 How to reach me ... Instagram
-- 😄 Pronouns: ... F*K THIS
 - ⚡ Fun fact: ...I PLAY SIEGE
 
 <!---
