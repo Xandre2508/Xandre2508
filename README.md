@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @Xandre2508
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...TI 
-- 📫 How to reach me ... Instagram
-- ⚡ Fun fact: ...I PLAY SIEGE
+Im Alexandre Almeida
+I have 20 Y
 
 <!---
 Xandre2508/Xandre2508 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
